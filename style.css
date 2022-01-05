@@ -1,0 +1,133 @@
+/* .text.text2{
+    color: red;
+} */
+
+/* .test1 p{
+    color: red;
+} */
+
+/* #test1{
+    height: 100px;
+    background-color: blue;
+} */
+/* 
+*{
+    color: red;
+} */
+/* 
+p.text{
+    color: green;
+} */
+
+/* p,h2,h3{
+    color: hotpink;
+} */
+
+/* .text .text3 p.hello{
+    color: hotpink;
+} */
+/* 
+div > h1{
+    color: blue;
+} */
+
+/* div + p{
+    color: crimson;
+} */
+
+/* p ~ ul{
+    color: cyan;
+} */
+/* 
+[name]{
+    color: green;
+}
+
+[href]{
+    color: red;
+} */
+
+/* [for = test]{
+    color: seagreen;
+} */
+
+/* [for ~= dsdsdsdsd]{
+    color: springgreen;
+} */
+
+/* a:active{
+    color: brown;
+}
+
+button{
+    width: 500px;
+    height: 300px;
+    box-shadow: lawngreen;
+}
+
+button:active{
+    background-color: hotpink;
+} */
+
+/* p::after{
+    content: " - Senin saatin sehvdir";
+} */
+
+
+/* p::before{
+    content: "  Saat necedir heci -";
+} */
+
+
+/* input[type = "checkbox"]:checked {
+    height: 50px;
+    width: 50px;
+} */
+
+/* p{
+    color:rgb(0, 255, 0)
+} */
+
+
+.clock{
+    height: 300px;
+    width: 100%;
+    background-image: url(../img/02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 100px;
+    height: 60px;
+    margin-top: 100px;
+    background-color: transparent;
+    border: 1px solid hotpink;
+    cursor: pointer;
+    transition: all 0.5s;
+  
+}
+
+button:hover{
+    background-color: hotpink;
+    transition: all 0.5s;
+    box-shadow: 100px 200px hotpink;
+    border: 1px solid black;
+    
+}
+
+body{
+    height: 1000px;
+}
+p{
+    text-shadow: 2px 2px #FF0000;
+}
+
+
+
+
+
+
